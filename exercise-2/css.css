@@ -1,0 +1,25 @@
+* {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.title-tag {
+  text-align: center;
+  font-size: 36pt;
+
+}
+
+.caption-text {
+  text-align: center;
+}
+
+p {
+  font-size: 16pt;
+}
+
+.top-margin {
+  padding-top: 5%;
+}
+
+.panel-heading > img {
+  margin: 0 auto;
+}
